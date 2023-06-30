@@ -1,0 +1,2 @@
+option(TESTS "Build unit testing" OFF)
+option(COVERAGE "Mesure test coverage" OFF)
